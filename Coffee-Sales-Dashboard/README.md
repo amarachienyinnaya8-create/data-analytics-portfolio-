@@ -1,5 +1,7 @@
 # Coffee Sales Dashboard
 
+![Coffee Sales Dashboard](Coffee-Sales-dashboard.png)
+
 ## Project Overview
 
 This project is an interactive Coffee Sales Dashboard built in Microsoft Excel. The goal was to analyze coffee sales data and turn the raw data into a clear dashboard that makes it easier to understand sales performance, customer purchasing behavior, and product trends.
