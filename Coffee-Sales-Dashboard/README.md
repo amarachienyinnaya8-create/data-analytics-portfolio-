@@ -34,6 +34,16 @@ The dataset contained information across Orders, Customers, and Products. I work
 
 The final dashboard brings the analysis together into an interactive view, allowing users to explore sales performance using filters and visualizations.
 
+## Key Insights
+
+- Total sales across the dataset were $45,134.26, covering orders from January 2019 to August 2022.
+- The United States was the largest market, generating $35,638.89, or approximately 79% of total sales.
+- Excelsa recorded the highest sales among the four coffee types at $12,306.44, followed by Liberica and Arabica.
+- Light roast generated the highest sales among the three roast types, contributing $17,354.47.
+- The 2.5 kg coffee size generated $23,785.57, accounting for approximately 52.7% of total sales.
+- Customers without a loyalty card generated $24,216.41 in sales, compared with $20,917.85 from loyalty-card customers.
+- The top five customers generated a combined $1,472.91 in sales, representing approximately 3.3% of total sales.
+
 ## Key Skills Practiced
 
 - Data cleaning and preparation
