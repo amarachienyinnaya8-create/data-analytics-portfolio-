@@ -86,8 +86,8 @@ Working through this project helped me strengthen my ability to transform raw ac
 
 This project was completed as a guided learning project based on the following Tableau tutorial:
 
-Part 1: Tableau Dashboard from Start to End (Part 1) | Road Accident Dashboard | Beginner to Pro
+[Part 1: Tableau Dashboard from Start to End | Road Accident Dashboard | Beginner to Pro](https://youtu.be/jhv_HPjtTyU?si=CdnjEEkw8A22Hdhi)
 
-Part 2: Tableau Dashboard from Start to End (Part 2) | Road Accident Dashboard | Beginner to Pro
+[Part 2: Tableau Dashboard from Start to End (Part 2) | Road Accident Dashboard | Beginner to Pro](https://youtu.be/-n5JKmnSpbA?si=qe3kdJnz_iVeU7Qd)
 
 The purpose of recreating the project was to gain hands-on experience with Tableau and strengthen my data analytics and visualization skills.
